@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\CourseManagementSystem\\CourseManagementSystem.csproj": {}
+    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\CourseManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\CourseManagementSystem\\CourseManagementSystem.csproj": {
+    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\CourseManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\CourseManagementSystem\\CourseManagementSystem.csproj",
+        "projectUniqueName": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\CourseManagementSystem.csproj",
         "projectName": "CourseManagementSystem",
-        "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\CourseManagementSystem\\CourseManagementSystem.csproj",
+        "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\CourseManagementSystem.csproj",
         "packagesPath": "C:\\Users\\pna29\\.nuget\\packages\\",
-        "outputPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\CourseManagementSystem\\obj\\",
+        "outputPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,26 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

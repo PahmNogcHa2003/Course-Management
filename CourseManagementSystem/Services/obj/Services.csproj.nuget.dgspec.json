@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\Services\\Services.csproj": {}
+    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\Services\\Services.csproj": {
+    "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\Services\\Services.csproj",
+        "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\pna29\\.nuget\\packages\\",
-        "outputPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSolution\\Services\\obj\\",
+        "outputPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
