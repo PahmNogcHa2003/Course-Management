@@ -69,10 +69,22 @@ namespace DataAccessLayer
             CourseManagementDbContext _context = new CourseManagementDbContext();
             return _context.Courses.Find(id);
         }
-        private static int GetNextCourseId()
+        public static int GetNextCourseId()
         {
             CourseManagementDbContext _context = new CourseManagementDbContext();
             return _context.Courses.Any() ? _context.Courses.Max(c => c.Id) + 1 : 1;
+        }
+        public void UpdateCourseStatus(int courseId, int newStatus)
+        {
+            using (var context = new CourseManagementDbContext())
+            {
+                var course = context.Courses.SingleOrDefault(c => c.Id == courseId);
+                if (course != null)
+                {
+                    course.Status = newStatus;
+                    context.SaveChanges();
+                }
+            }
         }
     }
 }

@@ -36,6 +36,8 @@ namespace CourseManagementSystem
         }
         private void btnCourse_Click(object sender, RoutedEventArgs e)
         {
+            Course.ViewCourseManage viewCourseManage = new Course.ViewCourseManage();
+            viewCourseManage.ShowDialog();
 
         }
 

@@ -1713,6 +1713,38 @@
         "runtime": {
           "bin/placeholder/DataAccessLayer.dll": {}
         }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0",
+          "DataAccessLayer": "1.0.0",
+          "Microsoft.Extensions.Configuration": "8.0.0",
+          "Microsoft.Extensions.Configuration.Json": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BusinessObjects": "1.0.0",
+          "Microsoft.Extensions.Configuration": "8.0.0",
+          "Microsoft.Extensions.Configuration.Json": "8.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -4534,15 +4566,28 @@
       "type": "project",
       "path": "../DataAccessLayer/DataAccessLayer.csproj",
       "msbuildProject": "../DataAccessLayer/DataAccessLayer.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "BusinessObjects >= 1.0.0",
       "DataAccessLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.design >= 8.0.7",
       "Microsoft.Extensions.Configuration >= 8.0.0",
-      "Microsoft.Extensions.Configuration.Json >= 8.0.0"
+      "Microsoft.Extensions.Configuration.Json >= 8.0.0",
+      "Repositories >= 1.0.0",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4578,8 +4623,17 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
+            "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\BusinessObjects\\BusinessObjects.csproj"
+            },
             "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\DataAccessLayer\\DataAccessLayer.csproj": {
               "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\DataAccessLayer\\DataAccessLayer.csproj"
+            },
+            "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\Repositories.csproj"
+            },
+            "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\Services.csproj": {
+              "projectPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\Services.csproj"
             }
           }
         }

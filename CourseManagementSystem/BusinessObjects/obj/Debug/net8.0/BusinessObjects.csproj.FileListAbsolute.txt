@@ -1,6 +1,8 @@
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
@@ -9,7 +11,5 @@ D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\Busine
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
-D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
-D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
-D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

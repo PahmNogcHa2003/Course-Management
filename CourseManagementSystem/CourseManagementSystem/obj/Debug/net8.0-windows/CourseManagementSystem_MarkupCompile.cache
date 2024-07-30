@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\App.xaml
-2-1030481326
+752223504
 
-5-803813786
-246835205386
-Home.xaml;Login.xaml;
+11-2122454128
+248-1075816066
+Course\AddAssessment.xaml;Course\AddCourse.xaml;Course\EditCourse.xaml;Course\ViewAssessment.xaml;Course\ViewCourseManage.xaml;Home.xaml;Login.xaml;
 
 False
 

@@ -7,6 +7,21 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Course\AddAssessment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Course\AddCourse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Course\EditCourse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Course\ViewAssessment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Course\ViewCourseManage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Home.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +30,21 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Course\AddAssessment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Course\AddCourse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Course\EditCourse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Course\ViewAssessment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Course\ViewCourseManage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Home.xaml">
       <SubType>Designer</SubType>
     </Page>
