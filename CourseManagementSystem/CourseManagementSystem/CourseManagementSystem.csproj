@@ -25,4 +25,9 @@
     <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="EnrollmentManagement\" />
+    <Folder Include="StudentManagement\" />
+  </ItemGroup>
+
 </Project>

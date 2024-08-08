@@ -161,3 +161,13 @@ D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\Course
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\Course\ViewAssessment.g.cs
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\Course\AddAssessment.baml
 D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\Course\ViewAssessment.baml
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\SemeterManagement\AddSemester.g.cs
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\SemeterManagement\EditSemester.g.cs
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\SemeterManagement\SemesterManagement.g.cs
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\SemeterManagement\AddSemester.baml
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\SemeterManagement\EditSemester.baml
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\SemeterManagement\SemesterManagement.baml
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\DepartmentManagement\Departments.g.cs
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\DepartmentManagement\EditDepartment.g.cs
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\DepartmentManagement\Departments.baml
+D:\Microsoft Visual Studio\CourseManagementProject\CourseManagementSystem\CourseManagementSystem\obj\Debug\net8.0-windows\DepartmentManagement\EditDepartment.baml

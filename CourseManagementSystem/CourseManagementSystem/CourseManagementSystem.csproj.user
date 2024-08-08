@@ -22,10 +22,25 @@
     <Compile Update="Course\ViewCourseManage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DepartmentManagement\Departments.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DepartmentManagement\EditDepartment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Home.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SemeterManagement\AddSemester.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SemeterManagement\EditSemester.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SemeterManagement\SemesterManagement.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -45,10 +60,25 @@
     <Page Update="Course\ViewCourseManage.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="DepartmentManagement\Departments.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DepartmentManagement\EditDepartment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Home.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SemeterManagement\AddSemester.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SemeterManagement\EditSemester.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SemeterManagement\SemesterManagement.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

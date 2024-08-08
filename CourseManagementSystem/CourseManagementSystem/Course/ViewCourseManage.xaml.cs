@@ -89,6 +89,10 @@ namespace CourseManagementSystem.Course
                     LoadComboBoxes();
                 }
             }
+            else
+            {
+                MessageBox.Show("Please select a course to update.", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
         }
         private void btnChangeStatus_Click(object sender, RoutedEventArgs e)
         {

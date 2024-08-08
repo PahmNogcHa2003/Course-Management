@@ -48,12 +48,14 @@ namespace CourseManagementSystem
 
         private void btnDepartment_Click(object sender, RoutedEventArgs e)
         {
-
+            DepartmentManagement.Departments departments = new DepartmentManagement.Departments();
+            departments.ShowDialog();
         }
 
         private void btnSemester_Click(object sender, RoutedEventArgs e)
         {
-
+            SemeterManagement.SemesterManagement semesterManagement = new SemeterManagement.SemesterManagement();       
+            semesterManagement.ShowDialog();
         }
 
         private void btnEnroll_Click(object sender, RoutedEventArgs e)
