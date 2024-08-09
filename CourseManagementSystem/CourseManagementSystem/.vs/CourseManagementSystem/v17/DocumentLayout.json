@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C643BB-F37A-4C61-B942-A19F806D4032}|..\\Services\\Services.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C643BB-F37A-4C61-B942-A19F806D4032}|..\\Services\\Services.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C643BB-F37A-4C61-B942-A19F806D4032}|..\\Services\\Services.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1852F-10E1-4DB5-8C20-3207141FFD1A}|..\\Repositories\\Repositories.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1852F-10E1-4DB5-8C20-3207141FFD1A}|..\\Repositories\\Repositories.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1852F-10E1-4DB5-8C20-3207141FFD1A}|..\\Repositories\\Repositories.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B1852F-10E1-4DB5-8C20-3207141FFD1A}|..\\Repositories\\Repositories.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F5552B-7DBE-415A-8C33-3626B343A383}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\dataaccesslayer\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C53E60A-5306-4BB5-A2F9-2ADF0CF750B2}|CourseManagementSystem.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\coursemanagementsystem\\enrollmentmanagement\\addenrollment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C53E60A-5306-4BB5-A2F9-2ADF0CF750B2}|CourseManagementSystem.csproj|solutionrelative:enrollmentmanagement\\addenrollment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C53E60A-5306-4BB5-A2F9-2ADF0CF750B2}|CourseManagementSystem.csproj|d:\\microsoft visual studio\\coursemanagementproject\\coursemanagementsystem\\coursemanagementsystem\\studentmanagement\\viewstudentmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C53E60A-5306-4BB5-A2F9-2ADF0CF750B2}|CourseManagementSystem.csproj|solutionrelative:studentmanagement\\viewstudentmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\CourseService.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\CourseService.cs",
+              "RelativeToolTip": "..\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:14:37.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\Services\\StudentService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:14:27.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Services\\IStudentService.cs",
+              "RelativeToolTip": "..\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:13:57.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\CourseRepository.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:12:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:11:52.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\ICourseRepository.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\ICourseRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:10:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:09:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDAO.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\DataAccessLayer\\StudentDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\StudentDAO.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\DataAccessLayer\\StudentDAO.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\StudentDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:08:55.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewStudentManagement.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\StudentManagement\\ViewStudentManagement.xaml",
+              "RelativeDocumentMoniker": "StudentManagement\\ViewStudentManagement.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\StudentManagement\\ViewStudentManagement.xaml",
+              "RelativeToolTip": "StudentManagement\\ViewStudentManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-09T18:03:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEnrollment.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\EnrollmentManagement\\AddEnrollment.xaml.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\AddEnrollment.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\CourseManagementProject\\CourseManagementSystem\\CourseManagementSystem\\EnrollmentManagement\\AddEnrollment.xaml.cs",
+              "RelativeToolTip": "EnrollmentManagement\\AddEnrollment.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:02:53.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
