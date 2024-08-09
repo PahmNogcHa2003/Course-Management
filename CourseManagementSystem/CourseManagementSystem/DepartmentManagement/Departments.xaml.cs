@@ -1,4 +1,5 @@
-﻿using Services;
+﻿using BusinessObjects;
+using Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,11 +31,7 @@ namespace CourseManagementSystem.DepartmentManagement
         public void LoadDepartment()
         {
             dgDepartments.ItemsSource = departmentService.GetDepartment();
-        }
-        private void Edit_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
+        }    
 
         private void btnClose_Click(object sender, RoutedEventArgs e)
         {

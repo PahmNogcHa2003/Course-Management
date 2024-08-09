@@ -10,18 +10,14 @@ namespace Repositories
 {
     public class DepartmentRepository : IDepartmentRepository
     {
-        private readonly DepartmentDAO _departmentDAO;
-        public DepartmentRepository()
-        {
-            _departmentDAO = new DepartmentDAO();
-        }
-        public void CreateDepartment(Department department) => _departmentDAO.CreateDepartment(department);
+    
+        public void CreateDepartment(Department department) => DepartmentDAO.CreateDepartment(department);
 
 
-        public List<Department> GetDepartment() => _departmentDAO.GetDepartment();
+        public List<Department> GetDepartment() => DepartmentDAO.GetDepartment();
 
-        public void UpdateDepartment(Department department) => _departmentDAO.UpdateDepartment(department);
+        public void UpdateDepartment(Department department) => DepartmentDAO.UpdateDepartment(department);
 
-        public Department? GetDepartmentByCode(string Code) => _departmentDAO.GetDepartmentByCode(Code);
+        public Department? GetDepartmentByCode(string Code) => DepartmentDAO.GetDepartmentByCode(Code);
     }
 }

@@ -43,7 +43,8 @@ namespace CourseManagementSystem
 
         private void btnStudent_Click(object sender, RoutedEventArgs e)
         {
-
+            StudentManagement.ViewStudentManagement viewStudentManagement = new StudentManagement.ViewStudentManagement();
+            viewStudentManagement.ShowDialog();
         }
 
         private void btnDepartment_Click(object sender, RoutedEventArgs e)
@@ -60,7 +61,8 @@ namespace CourseManagementSystem
 
         private void btnEnroll_Click(object sender, RoutedEventArgs e)
         {
-
+            EnrollmentManagement.EnrollmentManagement enrollmentManagement = new EnrollmentManagement.EnrollmentManagement();
+            enrollmentManagement.ShowDialog();
         }
 
         private void btnLogout_Click(object sender, RoutedEventArgs e)

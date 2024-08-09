@@ -9,28 +9,28 @@ namespace DataAccessLayer
 {
     public class DepartmentDAO
     {
-        public List<Department> GetDepartment()
+        public static List<Department> GetDepartment()
         {
             List<Department> departments = new List<Department>();
             CourseManagementDbContext db = new CourseManagementDbContext();
             departments = db.Departments.ToList();
             return departments;
         }
-        public void UpdateDepartment(Department department)
+        public static void UpdateDepartment(Department department)
         {
             CourseManagementDbContext db = new CourseManagementDbContext();
             db.Departments.Update(department);
             db.SaveChanges();
         }
 
-        public void CreateDepartment(Department department)
+        public static void CreateDepartment(Department department)
         {
 
             CourseManagementDbContext db = new CourseManagementDbContext();
             db.Departments.Add(department);
             db.SaveChanges();
         }
-        public Department? GetDepartmentByCode(string Code)
+        public static Department? GetDepartmentByCode(string Code)
         {
             Department? department = new Department();
             CourseManagementDbContext db = new CourseManagementDbContext();

@@ -25,7 +25,13 @@
     <Compile Update="DepartmentManagement\Departments.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="DepartmentManagement\EditDepartment.xaml.cs">
+    <Compile Update="EnrollmentManagement\AddEnrollment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EnrollmentManagement\EditMark.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EnrollmentManagement\EnrollmentManagement.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Home.xaml.cs">
@@ -41,6 +47,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="SemeterManagement\SemesterManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StudentManagement\AddStudent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StudentManagement\ViewStudentManagement.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -63,7 +75,13 @@
     <Page Update="DepartmentManagement\Departments.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="DepartmentManagement\EditDepartment.xaml">
+    <Page Update="EnrollmentManagement\AddEnrollment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EnrollmentManagement\EditMark.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EnrollmentManagement\EnrollmentManagement.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Home.xaml">
@@ -79,6 +97,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="SemeterManagement\SemesterManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StudentManagement\AddStudent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StudentManagement\ViewStudentManagement.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
